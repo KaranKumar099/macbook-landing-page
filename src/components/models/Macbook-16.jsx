@@ -26,7 +26,7 @@ export default function Model(props) {
         }
       }
     })
-  }, [color])
+  }, [color, scene])
 
   const texture=useTexture('/screen.png')
   return (

@@ -26,7 +26,7 @@ export default function MacBook14(props) {
         }
       }
     })
-  }, [color])
+  }, [color, scene])
 
   const texture = useTexture('/screen.png')
   return (
