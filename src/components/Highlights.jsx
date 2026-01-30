@@ -14,7 +14,7 @@ function Highlights() {
       opacity: 1,
       y: 0,
       stagger: 0.5,
-      duration: 4,
+      duration: 1,
       ease: 'power1.inOut'
     })
   })
